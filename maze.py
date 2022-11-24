@@ -106,7 +106,7 @@ for t in range(n*n):
             i+=x*2
             j+=y*2
 
-
+answerPath.reverse()
 
 for ma in solveMaze:
     print(ma)
